@@ -16,8 +16,8 @@ import javax.swing.JMenuBar;
  */
 public class chucnang extends  NewJFrame{
     
-    public void a(){
-        int d;
+    public void hehe(){
+        int hehe;
     }
     public void hidemenu() throws NoSuchAlgorithmException{
         int a = 1;
