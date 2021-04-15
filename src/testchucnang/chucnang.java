@@ -19,10 +19,7 @@ public class chucnang extends  NewJFrame{
     
     public void testlanchot(){
         int testlanchot;
-        int maynghia;
         int maytan;
-        int maytanlan2;
-        int maynghialan2;
     }
     public void hidemenu() throws NoSuchAlgorithmException{
         int a = 1;
